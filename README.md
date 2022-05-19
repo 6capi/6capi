@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://cdn.discordapp.com/attachments/862065997090914328/864252111005286411/standard.gif" alt="c4z" />
+  <img src="https://cdn.discordapp.com/attachments/862065997090914328/976946661937012786/static.png" alt="c4z" />
 </h1>
 
 ## Hey! 👋
