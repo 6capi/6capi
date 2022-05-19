@@ -3,7 +3,7 @@
 </h1>
 
 ## Hey! 👋
-I'm capi a normal student =)
+I'm Francisco a normal student =)
 
 - 🧭 Founder at [LaBrea](https://github.com/La-Brea-Development)
 
